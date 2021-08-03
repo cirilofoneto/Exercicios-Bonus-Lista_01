@@ -18,7 +18,7 @@ public class Exercicio04 {
 		System.out.println("Qual a distancia do inimigo? ");
 		distancia = pega.nextInt();
 
-		if (distancia >= 70) {
+		if (distancia < 70) {
 			System.out.println("Arma Principal DESATIVADA!");
 		}
 
