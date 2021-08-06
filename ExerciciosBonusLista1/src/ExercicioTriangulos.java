@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio07Triangulos {
+public class ExercicioTriangulos {
 		public static void main(String args[]  ) { 
 			
 		Scanner pega = new Scanner(System.in);
