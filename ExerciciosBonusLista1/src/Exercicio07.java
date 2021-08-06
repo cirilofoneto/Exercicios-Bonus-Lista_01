@@ -31,4 +31,4 @@ public class Exercicio07 {
 		System.out.println("------PARABENS VOCÊ ACERTOU!------ \n No Jarro tem 1238");
 
 	}
-}
+}				
